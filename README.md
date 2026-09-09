@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hello, I'm Anis Khan</h1>
-<h3 align="center">Full-Stack Developer | Blockchain Enthusiast | DevOps Practitioner</h3>
+<h1 align="center">👋 Hello, I'm Rudraksha Bhumkar</h1>
+<h3 align="center">Full-Stack Developer | Cyber Security Enthusiast </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniskhan45/">
+  <a >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aniskhan20171@gmail.com">
+  <a >
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Anis1608">
+  <a >
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in modern web technologies, blockchain development, and DevOps practices. I thrive on building scalable solutions and continuously expanding my technical skillset.
+I'm a passionate full-stack developer with expertise in modern web technologies, and cyber secutiry practices. I thrive on building scalable solutions and continuously expanding my technical skillset.
 
 - 🔭 **Currently Working On:** BlockVote – A secure blockchain-based voting system
 - 🌱 **Currently Learning:** Jenkins, Docker, CI/CD, AWS, Nexus, SonarQube
